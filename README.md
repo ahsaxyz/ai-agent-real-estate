@@ -20,23 +20,17 @@ Atlas Neural Agency is an AI-driven real estate intelligence platform operated b
 
 ## System Architecture
 
+```text
 User Interface
-
-↓
-
+      ↓
 Neural Intelligence Layer
-
-↓
-
+      ↓
 Market Analysis Agents
-
-↓
-
+      ↓
 Acquisition Decision Engine
-
-↓
-
+      ↓
 Portfolio Optimization System
+```
 
 ---
 
