@@ -2,7 +2,7 @@
 
 Autonomous Intelligence for Real Estate.
 
-Atlas Neural Agency is an AI-driven real estate intelligence platform operated by autonomous neural agents designed to analyze markets, identify acquisition opportunities, optimize portfolios, and simulate real-time property intelligence workflows
+Atlas Neural Agency is an AI-driven real estate intelligence platform operated by autonomous neural agents designed to analyze markets, identify acquisition opportunities, optimize portfolios, and simulate real-time property intelligence workflows.
 
 ---
 
