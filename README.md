@@ -1,3 +1,3 @@
  ## Atlas Neural
 
-Currenly in progres
+Currenly in progress
