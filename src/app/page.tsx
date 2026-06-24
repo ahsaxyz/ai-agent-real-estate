@@ -1,4 +1,3 @@
-
 import Navbar from "@/components/navbar";
 import HeroSection from "@/components/hero-section";
 import PlatformSection from "@/components/platform-section";
