@@ -1,4 +1,4 @@
- ## Atlas Neural
+ ## AI Agent Real Estate
 
 Currenly in progress
 
