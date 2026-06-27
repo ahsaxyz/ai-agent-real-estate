@@ -72,13 +72,13 @@ Investment Insights
 
 - [x] Initial Project Setup
 - [x] Landing Page
-- [ ] AI Agent Framework
-- [ ] Market Intelligence Engine
-- [ ] Property Discovery Agent
-- [ ] Risk Analysis Agent
-- [ ] Portfolio Optimization Agent
-- [ ] Interactive Global Market Visualization
-- [ ] Conversational AI Assistant
+- [x] AI Agent Framework
+- [x] Market Intelligence Engine
+- [x] Property Discovery Agent
+- [x] Risk Analysis Agent
+- [x] Portfolio Optimization Agent
+- [x] Interactive Global Market Visualization
+- [x] Conversational AI Assistant
 
 ---
 
