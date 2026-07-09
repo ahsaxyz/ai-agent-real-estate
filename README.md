@@ -1,6 +1,6 @@
 # ai-agent-real-estate
 
-An open-source framework exploring autonomous AI agents for real estate intelligence, property discovery, market analysis, and investment researc
+An open-source framework exploring autonomous AI agents for real estate intelligence, property discovery, market analysis, and investment research.
 
 ---
 
