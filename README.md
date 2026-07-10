@@ -15,7 +15,7 @@ The goal is to build intelligent systems that augment real estate professionals 
 ## Features
 
 - 🤖 Autonomous AI Agents
-- 📊 Real-Time Market Intelligence
+- 📊 Real-Time Market Intelligenc
 - 🏙️ Property Discovery
 - 📈 Investment Opportunity Analysis
 - 🌍 Global Market Monitoring
